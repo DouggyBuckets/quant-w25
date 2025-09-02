@@ -1,6 +1,6 @@
-This is the MHackers Quant Team Project from W24.
+Douglas Le - Michigan Hackers Quant Team Project Winter 2025.
 
-This project implements an RSI trading strategy to buy or sell the given stock at certain thresholds.
+This project implements a Breakout trading strategy to buy or sell the given stock once it rises/falls beyond certain thresholds, and once it meets the required volume.
 
 To run this:
 Run python main.py to run the default ticker, AAPL.
